@@ -8,7 +8,7 @@ This project is a resource for understanding and applying the Image Processing c
 - [Technologies Used](#used-technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [What is Image Processing?](#what is-image-processing)
+- [What is Image Processing?]
 - [Project Examples](#project-samples)
 - [Results and Evaluation](#results-and-evaluation)
 - [Contributions](#contributions)
