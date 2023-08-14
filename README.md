@@ -1,5 +1,4 @@
 # ImageProcessing
-# Image Processing
 
 This project is a resource for understanding and applying the Image Processing concept.
 
